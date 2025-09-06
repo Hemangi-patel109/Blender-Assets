@@ -10,6 +10,8 @@ All models are organized, optimized, and exported for easy use in Blender and ot
 Here are some previews of the models:
 
 ![](./ss1.png)
+![](./ss22.png)
+![](./ss21.png)
 ![](./ss13.png)
 ![](./ss11.png)
 ![](./ss12.png)
